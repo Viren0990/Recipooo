@@ -1,5 +1,5 @@
 # 🥗 Recipoo – Your Smart Recipe Finder
-
+(One of my first projects i built as a practice)
 **Recipoo** is a full-stack web application that makes finding, managing, and creating recipes easier than ever. With a **React** frontend and **Express.js** backend, Recipoo delivers a fast, responsive, and enjoyable cooking experience for users.
 
 ---
