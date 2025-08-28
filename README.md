@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Getting Started
+## 🚀Getting Started
 
 To run Recipoo locally:
 
